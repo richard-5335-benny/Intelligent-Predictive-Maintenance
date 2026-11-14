@@ -1,0 +1,23 @@
+#Python cache files
+__pycache__/
+*.py[cod]
+
+#Virual Environments
+venv/
+.venv/
+env/
+
+#Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+#Jupyter Notebook checkpionts
+.ipynb_checkpoints/
+
+#Operating system files
+.DS_Store
+Thumbs.db
+
+#Temporary files
+*.tmp
+*.log
